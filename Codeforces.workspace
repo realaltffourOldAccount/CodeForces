@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="Codeforces" Database="" Version="10.0.0">
+  <Project Name="Words" Path="Words/Words.project" Active="No"/>
+  <Project Name="469A-I-wanna-be-the-guy" Path="469A-I-wanna-be-the-guy/469A-I-wanna-be-the-guy.project" Active="No"/>
+  <Project Name="61A-Utlra-Fast-Mathematician" Path="61A-Utlra-Fast-Mathematician/61A-Utlra-Fast-Mathematician.project" Active="No"/>
+  <Project Name="344A-Magnets" Path="344A-Magnets/344A-Magnets.project" Active="No"/>
+  <Project Name="405A-Gravity-Flip" Path="405A-Gravity-Flip/405A-Gravity-Flip.project" Active="No"/>
+  <Project Name="734A-Anton-And-Danik" Path="734A-Anton-And-Danik/734A-Anton-And-Danik.project" Active="No"/>
+  <Project Name="25A-IQ-Test" Path="25A-IQ-Test/25A-IQ-Test.project" Active="No"/>
+  <Project Name="472A-Design-Tutorial-Learn-From-Math" Path="472A-Design-Tutorial-Learn-From-Math/472A-Design-Tutorial-Learn-From-Math.project" Active="No"/>
+  <Project Name="268A-Games" Path="268A-Games/268A-Games.project" Active="No"/>
+  <Project Name="433A-Anton-And-Letters" Path="433A-Anton-And-Letters/433A-Anton-And-Letters.project" Active="No"/>
+  <Project Name="677A-Vanya-And-Fence" Path="677A-Vanya-And-Fence/677A-Vanya-And-Fence.project" Active="No"/>
+  <Project Name="144A-Arrival-Of-the-General" Path="144A-Arrival-Of-the-General/144A-Arrival-Of-the-General.project" Active="No"/>
+  <Project Name="228A-Is-Your-Horsehoe-on-the-other-hoof" Path="228A-Is-Your-Horsehoe-on-the-other-hoof/228A-Is-Your-Horsehoe-on-the-other-hoof.project" Active="No"/>
+  <Project Name="520A-Pangram" Path="520A-Pangram/520A-Pangram.project" Active="No"/>
+  <Project Name="141A-Amusing-Joke" Path="141A-Amusing-Joke/141A-Amusing-Joke.project" Active="No"/>
+  <Project Name="460A-Vasya-and-Socks" Path="460A-Vasya-and-Socks/460A-Vasya-and-Socks.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="Words" ConfigName="Debug"/>
+      <Project Name="469A-I-wanna-be-the-guy" ConfigName="Debug"/>
+      <Project Name="61A-Utlra-Fast-Mathematician" ConfigName="Debug"/>
+      <Project Name="144A-Arrival-Of-the-General" ConfigName="Debug"/>
+      <Project Name="344A-Magnets" ConfigName="Debug"/>
+      <Project Name="405A-Gravity-Flip" ConfigName="Debug"/>
+      <Project Name="734A-Anton-And-Danik" ConfigName="Debug"/>
+      <Project Name="25A-IQ-Test" ConfigName="Debug"/>
+      <Project Name="472A-Design-Tutorial-Learn-From-Math" ConfigName="Debug"/>
+      <Project Name="268A-Games" ConfigName="Debug"/>
+      <Project Name="433A-Anton-And-Letters" ConfigName="Debug"/>
+      <Project Name="677A-Vanya-And-Fence" ConfigName="Debug"/>
+      <Project Name="228A-Is-Your-Horsehoe-on-the-other-hoof" ConfigName="Debug"/>
+      <Project Name="520A-Pangram" ConfigName="Debug"/>
+      <Project Name="141A-Amusing-Joke" ConfigName="Debug"/>
+      <Project Name="460A-Vasya-and-Socks" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="Words" ConfigName="Release"/>
+      <Project Name="469A-I-wanna-be-the-guy" ConfigName="Release"/>
+      <Project Name="61A-Utlra-Fast-Mathematician" ConfigName="Release"/>
+      <Project Name="144A-Arrival-Of-the-General" ConfigName="Release"/>
+      <Project Name="344A-Magnets" ConfigName="Release"/>
+      <Project Name="405A-Gravity-Flip" ConfigName="Release"/>
+      <Project Name="734A-Anton-And-Danik" ConfigName="Release"/>
+      <Project Name="25A-IQ-Test" ConfigName="Release"/>
+      <Project Name="472A-Design-Tutorial-Learn-From-Math" ConfigName="Release"/>
+      <Project Name="268A-Games" ConfigName="Release"/>
+      <Project Name="433A-Anton-And-Letters" ConfigName="Release"/>
+      <Project Name="677A-Vanya-And-Fence" ConfigName="Release"/>
+      <Project Name="228A-Is-Your-Horsehoe-on-the-other-hoof" ConfigName="Release"/>
+      <Project Name="520A-Pangram" ConfigName="Release"/>
+      <Project Name="141A-Amusing-Joke" ConfigName="Release"/>
+      <Project Name="460A-Vasya-and-Socks" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
