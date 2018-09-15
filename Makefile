@@ -1,8 +1,8 @@
 .PHONY: clean All
 
 All:
-	@echo "----------Building project:[ 500A-New-Year-Transportation - Debug ]----------"
-	@cd "500A-New-Year-Transportation" && "$(MAKE)" -f  "500A-New-Year-Transportation.mk"
+	@echo "----------Building project:[ 379A-New-Year-Candles - Debug ]----------"
+	@cd "379A-New-Year-Candles" && "$(MAKE)" -f  "379A-New-Year-Candles.mk"
 clean:
-	@echo "----------Cleaning project:[ 500A-New-Year-Transportation - Debug ]----------"
-	@cd "500A-New-Year-Transportation" && "$(MAKE)" -f  "500A-New-Year-Transportation.mk" clean
+	@echo "----------Cleaning project:[ 379A-New-Year-Candles - Debug ]----------"
+	@cd "379A-New-Year-Candles" && "$(MAKE)" -f  "379A-New-Year-Candles.mk" clean
