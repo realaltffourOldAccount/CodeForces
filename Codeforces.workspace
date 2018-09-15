@@ -15,7 +15,9 @@
   <Project Name="228A-Is-Your-Horsehoe-on-the-other-hoof" Path="228A-Is-Your-Horsehoe-on-the-other-hoof/228A-Is-Your-Horsehoe-on-the-other-hoof.project" Active="No"/>
   <Project Name="520A-Pangram" Path="520A-Pangram/520A-Pangram.project" Active="No"/>
   <Project Name="141A-Amusing-Joke" Path="141A-Amusing-Joke/141A-Amusing-Joke.project" Active="No"/>
-  <Project Name="460A-Vasya-and-Socks" Path="460A-Vasya-and-Socks/460A-Vasya-and-Socks.project" Active="Yes"/>
+  <Project Name="460A-Vasya-and-Socks" Path="460A-Vasya-and-Socks/460A-Vasya-and-Socks.project" Active="No"/>
+  <Project Name="500A-New-Year-Transportation" Path="500A-New-Year-Transportation/500A-New-Year-Transportation.project" Active="No"/>
+  <Project Name="379A-New-Year-Candles" Path="379A-New-Year-Candles/379A-New-Year-Candles.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug" Selected="yes">
       <Environment/>
@@ -35,6 +37,8 @@
       <Project Name="520A-Pangram" ConfigName="Debug"/>
       <Project Name="141A-Amusing-Joke" ConfigName="Debug"/>
       <Project Name="460A-Vasya-and-Socks" ConfigName="Debug"/>
+      <Project Name="500A-New-Year-Transportation" ConfigName="Debug"/>
+      <Project Name="379A-New-Year-Candles" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release" Selected="yes">
       <Environment/>
@@ -54,6 +58,8 @@
       <Project Name="520A-Pangram" ConfigName="Release"/>
       <Project Name="141A-Amusing-Joke" ConfigName="Release"/>
       <Project Name="460A-Vasya-and-Socks" ConfigName="Release"/>
+      <Project Name="500A-New-Year-Transportation" ConfigName="Release"/>
+      <Project Name="379A-New-Year-Candles" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>
